@@ -1,4 +1,5 @@
-> Fork 于 Akilarlxh 的 [live2d_api](https://github.com/Akilarlxh/live2d_api)。 
+> Fork 于 Akilarlxh 的 [live2d_api](https://github.com/Akilarlxh/live2d_api)。
+> 个人布署于 Vercel 。
 
 # Live2D API
 
